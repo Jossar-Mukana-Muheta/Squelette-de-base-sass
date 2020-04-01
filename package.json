@@ -1,0 +1,22 @@
+{
+  "name": "squelette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joss243/Js-Elec.github.io.git"
+  },
+  "author": "Mukana Muheta jossar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joss243/Js-Elec.github.io/issues"
+  },
+  "homepage": "https://github.com/joss243/Js-Elec.github.io#readme",
+  "dependencies": {
+    "sass": "^1.26.3"
+  }
+}
